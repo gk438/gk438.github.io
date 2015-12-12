@@ -1,0 +1,25 @@
+// typography.
+$font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+$font-size: 16px;
+
+// source code typography.
+$code-font-family: Consolas, Monaco, 'Andale Mono', monospace;
+$code-font-size: 0.85em;
+
+// vertical margin.
+$margin: 50px;
+
+// brand color.
+$brand-color: #000;
+
+// other major colors.
+$site-title-color: rgba(#FFF, .8);
+$page-title-color: $brand-color;
+$background-color: #222;
+$post-link-color: lighten($brand-color, 80%);
+$border-color: rgba(#FFF, .1);
+
+// typography colors.
+$text-color: #FFF;
+$link-color: #2c7bf9;
+$blockquote-color: #777;
